@@ -20990,7 +20990,7 @@ const data3: Protocol[] = [
     cmcId: null,
     category: "CDP",
     chains: ["Linea"],
-    oracles: [],
+    oracles: ["Pyth","Chainlink"],
     forkedFrom: ["Liquity"],
     module: "lyve/index.js",
     twitter: "LyveFinance",
